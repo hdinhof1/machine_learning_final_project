@@ -1,0 +1,7 @@
+Zipcodes can change
+
+2010 vs. 2016 zip code data version -- went with 2010
+
+
+Error: Got a random zip code 83 - count 14
+	Normalization in Symbology -   allows for you to match say population counts to a zip code and your frequency counts.
